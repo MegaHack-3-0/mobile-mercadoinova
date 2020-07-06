@@ -7,7 +7,7 @@ export const Container = styled.View`
   background: #e7e6e5;
 `;
 
-export const ProductList = styled.View``;
+export const ProductList = styled(FlatList)``;
 
 export const Product = styled.View`
   margin-top: 15px;

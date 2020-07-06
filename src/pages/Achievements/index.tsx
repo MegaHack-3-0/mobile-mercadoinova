@@ -8,7 +8,7 @@ import { Container } from './styles';
 const Achievements: React.FC = () => {
   return (
     <Container>
-      <Header title="Minhas Coquistas" />
+      <Header title="Minhas Conquistas" />
     </Container>
   );
 };
