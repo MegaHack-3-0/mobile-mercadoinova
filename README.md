@@ -26,7 +26,7 @@
 
 <!-- Project image -->
 <p align="center">
-  <img src=".github/app.png" alt="Tubarão da estrada" width="270" height="555" >
+  <img src=".github/app.png" alt="Mercado Inova" width="270" height="555" >
 </p>
 
 

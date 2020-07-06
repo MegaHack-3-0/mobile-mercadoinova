@@ -77,6 +77,7 @@ const Dashboard: React.FC = () => {
           <Icon name="star" size={30} color="#ffc107" />
           <Icon name="star" size={30} color="#ffc107" />
           <Icon name="star" size={30} color="#ffc107" />
+          <Icon name="star" size={30} color="#ffc107" />
         </StarsContainer>
         <BytsContainer>
           <Image source={bytsImg} />
