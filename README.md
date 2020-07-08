@@ -123,7 +123,7 @@ Distribuido sobre a Licença MIT. Clique em [Licença](LICENSE.md) para mais det
 
 * Daniel - <daniel.keterer@gmail.com>
 * João Vitor - <j.vitor.mf@gmail.com>
-* Ane Mendes - <raliane.mc@gmail.com>
+* Ane Mendes - <ralianemc@gmail.com>
 
 [Voltar ao topo](#-índice)
 ***
