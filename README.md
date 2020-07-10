@@ -34,6 +34,8 @@
 Mercado Inova é um app desenvolvido pela equipe 20 para o desafio do Mercado Livre durante o Mega Hack 3.0 2020.
 A ideia do app é gerenciar os eletrônicos do usuário para evitar que fiquem muito velhos e perca de dinheiro!
 
+**OBS: Projeto desenvolvido em React Native porém testado apenas no Android!**
+
 ***
 
 # Construído com
@@ -62,6 +64,7 @@ Para ter um cópia local e funcionando do app, siga os passos abaixo.
 
 * Node.js - [Guia de instalação](https://nodejs.org/en/download/package-manager/)
 * Yarn - [Guia de instalação](https://classic.yarnpkg.com/en/docs/install/#windows-stable)
+* Emulador - [Guia de instalação](https://react-native.rocketseat.dev/)
 
 [Voltar ao topo](#-índice)
 ***
@@ -79,7 +82,8 @@ Execute os comandos abaixo para instalar o app.
     yarn
 
     #iniciar o projeto
-    yarn start
+    #Abra a VM Andorid antes do executar o comando abaixo
+    npx react-native run-android
    ```
 
 [Voltar ao topo](#-índice)
